@@ -1,4 +1,4 @@
-# Data-Management
+# Data Management
 
 This exam consisted of a written test and a project on the main topics of the course. 
 
