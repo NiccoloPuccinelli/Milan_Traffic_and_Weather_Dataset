@@ -1,4 +1,4 @@
-# Data Management
+# Milan_Traffic_and_Weather_Dataset
 
 Here is the work done together with my colleagues **Marco Scatassi** and **Greta Gravina**. In particular, we built a dataset concerning informations regarding the weather and the traffic in Milan, in the period between December 28, 2021 and January 10, 2022, using different **APIs**. 
 
